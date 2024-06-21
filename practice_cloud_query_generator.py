@@ -26,9 +26,9 @@ from openai import OpenAI
 import pandas as pd
 
 import os
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 
 
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 
 client = OpenAI()
 
 # take in additional scheme details ex. scheme of the user table
